@@ -6,7 +6,7 @@ weight = 1
 rtl = false
 
 title = "iCourse"
-logo = "blowfish_logo.png"
+logo = "BerkahIT.jpeg"
 # description = "My awesome website"
 copyright = "@ 2023 iCourse powered by Berkah IT"
 
@@ -14,8 +14,8 @@ dateFormat = "2 January, 2006"
 
 [author]
  name = "iCourse"
- image = "img/blowfish_logo.png"
-  headline = "~ dari manusia untuk kecerdasan manusia ~"
+ image = "BerkahIT.jpeg"
+  headline = "{{<typeit>}}~ dari manusia untuk wawasan manusia ~{{</typeit>}}"
    bio = "~ lakukan yang terbaik, hidup hanya satu kali ~"
    links = [
 #     { email = "mailto:hello@your_domain.com" },

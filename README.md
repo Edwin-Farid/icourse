@@ -1,7 +1,7 @@
 # icourse
 
-projek ini untuk menambawah wawasan manusia.
+projek ini dari manusia untuk wawasan manusia.
 
 build with love using hugo
 
-from IDev to World
+from Berkah IT to World

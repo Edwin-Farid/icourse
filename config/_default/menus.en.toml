@@ -17,23 +17,32 @@
 
 [[main]]
   name = "Belajar"
-  pageRef = "belajar/"
   weight = 2
+
+[[main]]
+  name = "Programming"
+  parent = "Belajar"
+  pageRef = "belajar/programming"
+  weight = 2
+
+[[main]]
+  name = "IOT"
+  parent = "Belajar"
+  pageRef = "belajar/iot"
+  weight = 2
+
+[[main]]
+  name = "MeetUp"
+  pageRef = "meetup"
+  weight = 3
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 4
 
 #[[main]]
 #  name = "Parent"
-#  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
 #  weight = 20
 
 #[[subnavigation]]
