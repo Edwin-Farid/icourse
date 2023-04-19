@@ -24,7 +24,7 @@ disableImageOptimization = false
 # smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "basic" # valid options: basic, fixed
+  layout = "fixed" # valid options: basic, fixed
 
 [footer]
   showMenu = true
@@ -37,9 +37,9 @@ disableImageOptimization = false
   layout = "card" # valid options: page, profile, hero, card, background, custom
   homepageImage = "background.png" # used in: hero, and card
   showRecent = true
-  showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/posts"
+  showRecentItems = 10
+  showMoreLink = true
+  showMoreLinkDest = "/belajar/"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
@@ -82,8 +82,8 @@ disableImageOptimization = false
   showLikes = false
   showTableOfContents = false
   showCards = false
-  groupByYear = true
-  cardView = false
+  groupByYear = false
+  cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
 

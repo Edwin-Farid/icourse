@@ -6,15 +6,15 @@ weight = 1
 rtl = false
 
 title = "iCourse"
-logo = "BerkahIT.jpeg"
+logo = "img/BerkahIT.png"
 # description = "My awesome website"
-copyright = "@ 2023 iCourse powered by Berkah IT"
+copyright = "@ { year } iCourse powered by Berkah IT"
 
 dateFormat = "2 January, 2006"
 
 [author]
  name = "iCourse"
- image = "BerkahIT.jpeg"
+ image = "img/BerkahIT.png"
   headline = "{{<typeit>}}~ dari manusia untuk wawasan manusia ~{{</typeit>}}"
    bio = "~ lakukan yang terbaik, hidup hanya satu kali ~"
    links = [

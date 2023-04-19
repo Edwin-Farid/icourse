@@ -7,23 +7,16 @@ draft: false
 
 {{< typeit tag=h3 speed=50 breakLines=false loop=true >}} ~ Dari manusia untuk wawasan manusia ~ {{< /typeit >}}
 
-Selamat datang di kursus kami! Kami adalah tempat terbaik untuk memperoleh pengetahuan dan keterampilan yang Anda butuhkan untuk mencapai tujuan Anda. Dengan kurikulum yang dirancang oleh para ahli dan pengajar yang berpengalaman, Anda akan belajar dengan cepat dan efektif. Bergabunglah dengan komunitas kami yang terdiri dari ribuan siswa yang sudah merasakan manfaat dari kursus kami. Ayo, mulailah perjalanan belajar Anda sekarang!
+"Selamat datang di iCourse, tempat belajar teknologi informatika bagi siapa saja yang ingin memperluas pengetahuan mereka di dunia IT. Kami menyediakan materi-materi yang disajikan secara sederhana dan mudah dipahami, cocok untuk pemula yang baru memulai perjalanan di dunia IT. Dari manusia untuk wawasan manusia, kami berkomitmen untuk terus memberikan konten berkualitas dan mendukung komunitas belajar IT yang lebih baik. Lakukan yang terbaik, hidup hanya satu kali !"
 
-
-<div style="display: flex; flex-wrap: wrap;">
-
-  <div style="flex: 1; margin:10px; min-width:100px">
-    {{< button href="belajar" target="_self" >}}
+<div class="flex justify-between">
+ {{< button href="belajar" target="_self" >}}
       {{< icon "book" >}}&nbsp;
     Mulai belajar
     {{< /button >}}
-  </div>
-
-  <div style="flex: 1; margin:10px; min-width:100px">
+    <div class="mr-6"></div>
     {{< button href="#" target="_self" >}}
     {{< icon "bell" >}}&nbsp;
     Notif me sensei!
     {{< /button >}}
-  </div>
-
 </div>
