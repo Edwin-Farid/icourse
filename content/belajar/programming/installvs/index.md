@@ -4,7 +4,7 @@ date: 2023-04-19T19:29:38+08:00
 draft: false
 
 showTableOfContents: true
-tags: ["programming", "c#", "unity", "IDE"]
+tags: ["programming", "unity", "IDE"]
 ---
 
 ## Langkah Awal
