@@ -32,6 +32,12 @@
   weight = 2
 
 [[main]]
+  name = "Blockchain"
+  parent = "Belajar"
+  pageRef = "belajar/blockchain"
+  weight = 2
+
+[[main]]
   name = "MeetUp"
   pageRef = "meetup"
   weight = 3
