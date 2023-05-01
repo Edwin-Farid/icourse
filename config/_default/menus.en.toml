@@ -34,7 +34,7 @@
 [[main]]
   name = "Blockchain"
   parent = "Belajar"
-  pageRef = "belajar/blockchain"
+pageRef = "belajar/blockchain"
   weight = 2
 
 [[main]]
