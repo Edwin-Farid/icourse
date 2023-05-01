@@ -6,9 +6,6 @@ draft: false
 
 showTableOfContents: true
 tags: ["Blockchain", "Solidity", "Web3"]
-
-authors:
-  - nunocoracao
 ---
 
 ## Praktik Terbaik
