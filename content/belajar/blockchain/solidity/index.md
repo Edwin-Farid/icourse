@@ -25,8 +25,9 @@ bisa di pelajari dari orang yang baru bergelut pada dunia programmer atau bahkan
  More!
 
 ### Panduan dan sumber materi ! 
-Link youtube : https://www.youtube.com/watch?v=gyMwXuJrbJQ
-https://github.com/smartcontractkit/full-blockchain-solidity-course-js.git
+- Link youtube : https://www.youtube.com/watch?v=gyMwXuJrbJQ
+- Link Github : https://github.com/smartcontractkit/full-blockchain-solidity-course-js.git
+
 Jangan lupa untuk selalu mengecek repository github!
 
 ### Belajar sesuai kecepatan mu !
