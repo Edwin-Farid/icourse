@@ -1,10 +1,14 @@
 ---
 title: "Belajar Solidity dari Freecodecamp"
+summary: "It doesn't matter if you work in a startup, scale-up, or a larger organization, in any case, the success of a product team usually equals growing such a team. These changes bring challenges and opportunities to organizations. Here are some strategies for organizing product teams, what they optimize, and in which situation to use them."
 date: 2023-04-30T08:48:41+08:00
 draft: false
 
 showTableOfContents: true
 tags: ["Blockchain", "Solidity", "Web3"]
+
+authors:
+  - nunocoracao
 ---
 
 ## Praktik Terbaik
