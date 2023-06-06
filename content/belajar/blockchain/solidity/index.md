@@ -51,3 +51,18 @@ Kalau kamu mau hanya ingin belajar hal basic, kamu cukup pelajari hal basic. Kal
 - bertanya di discord, reddit, twitter dan media sosial lainnya
 
 > Learning to collaborative is important to be a web3 developer
+
+
+## DApps Pertama
+Kita akan langsung peraktik cara membuat smartcontract pertama kita menggunakan bahasa pemrograman solidity.
+Tools yang akan kita gunakan :
+- solidity - bahasa pemrograman
+- meta mask - wallet
+- hardhat - menjalankan program
+- etherjs - liblary 
+- web3js - liblary
+
+Hal yang perlu di siapkan :
+- nodejs
+
+### Setup
