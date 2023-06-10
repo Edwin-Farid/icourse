@@ -4,7 +4,7 @@ date: 2023-06-10T09:32:45+08:00
 draft: false
 
 showtableofcontents: true
-tags: ["Mobile Developer","Dart","Dart PBO","Flutter"]
+tags: ["Mobile Developer","Dart","Dart PBO","Flutter","Dasar Dart"]
 ---
 
 ## Dasar-dasar dart
