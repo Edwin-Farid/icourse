@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to iCourse! on iCourse</title>
+    <link>https://icourse.berkahit.com/</link>
+    <description>Recent content in Welcome to iCourse! on iCourse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>@ { year } iCourse powered by Berkah IT</copyright>
+    <lastBuildDate>Wed, 05 Apr 2023 09:27:06 +0800</lastBuildDate><atom:link href="https://icourse.berkahit.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mobile Developer with Flutter</title>
+      <link>https://icourse.berkahit.com/belajar/programming/mobile/</link>
+      <pubDate>Tue, 06 Jun 2023 10:31:48 +0800</pubDate>
+      
+      <guid>https://icourse.berkahit.com/belajar/programming/mobile/</guid>
+      <description>Pengenalan&gt; Pengenalan # Apa itu mobile developer?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://icourse.berkahit.com/belajar/programming/mobile/featured.png" />
+    </item>
+    
+    <item>
+      <title>Belajar Solidity dari Freecodecamp</title>
+      <link>https://icourse.berkahit.com/belajar/blockchain/solidity/</link>
+      <pubDate>Sun, 30 Apr 2023 08:48:41 +0800</pubDate>
+      
+      <guid>https://icourse.berkahit.com/belajar/blockchain/solidity/</guid>
+      <description>Disini kamu dapat mempelajari teknologi web3, solidity atau mungkin bahasa yang familiar blockchain. Tidak masalah kamu belum menguasai bahasa pemrograman atau baru terjun di dunia IT, karena pada tutorial kali ini akan di ajarkan dari basic sampai expert</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://icourse.berkahit.com/belajar/blockchain/solidity/Feature.png" />
+    </item>
+    
+    <item>
+      <title>Cara Menginstal Visual Studio</title>
+      <link>https://icourse.berkahit.com/belajar/programming/installvs/</link>
+      <pubDate>Wed, 19 Apr 2023 19:29:38 +0800</pubDate>
+      
+      <guid>https://icourse.berkahit.com/belajar/programming/installvs/</guid>
+      <description>Langkah Awal&gt; Langkah Awal # Buka browser, kemudian search &amp;ldquo;download visual studio&amp;rdquo;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://icourse.berkahit.com/belajar/programming/installvs/feature.png" />
+    </item>
+    
+    <item>
+      <title>Lotim Dev MeetUp 4</title>
+      <link>https://icourse.berkahit.com/meetup/meetup4/</link>
+      <pubDate>Sat, 08 Apr 2023 11:37:32 +0800</pubDate>
+      
+      <guid>https://icourse.berkahit.com/meetup/meetup4/</guid>
+      <description>Technical Feasibility : Sudaryatno as CTO at GITS Indonesia&gt; Technical Feasibility : Sudaryatno as CTO at GITS Indonesia # Gits sebuah perusahaan yang berfokus dalam bidang perkembangan software.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://icourse.berkahit.com/meetup/meetup4/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://icourse.berkahit.com/about/</link>
+      <pubDate>Wed, 05 Apr 2023 09:27:57 +0800</pubDate>
+      
+      <guid>https://icourse.berkahit.com/about/</guid>
+      <description>iCourse adalah sebuah website yang didirikan pada bulan Maret 2023 oleh Edwin Farid, seorang founder dari channel Youtube Berkah IT.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programming on iCourse</title>
+    <link>https://icourse.berkahit.com/tags/programming/</link>
+    <description>Recent content in programming on iCourse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>@ { year } iCourse powered by Berkah IT</copyright>
+    <lastBuildDate>Wed, 19 Apr 2023 19:29:38 +0800</lastBuildDate><atom:link href="https://icourse.berkahit.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Menginstal Visual Studio</title>
+      <link>https://icourse.berkahit.com/belajar/programming/installvs/</link>
+      <pubDate>Wed, 19 Apr 2023 19:29:38 +0800</pubDate>
+      
+      <guid>https://icourse.berkahit.com/belajar/programming/installvs/</guid>
+      <description>Langkah Awal&gt; Langkah Awal # Buka browser, kemudian search &amp;ldquo;download visual studio&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>

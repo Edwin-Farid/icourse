@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dart on iCourse</title>
+    <link>https://icourse.berkahit.com/tags/dart/</link>
+    <description>Recent content in Dart on iCourse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>@ { year } iCourse powered by Berkah IT</copyright>
+    <lastBuildDate>Tue, 06 Jun 2023 10:31:48 +0800</lastBuildDate><atom:link href="https://icourse.berkahit.com/tags/dart/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mobile Developer with Flutter</title>
+      <link>https://icourse.berkahit.com/belajar/programming/mobile/</link>
+      <pubDate>Tue, 06 Jun 2023 10:31:48 +0800</pubDate>
+      
+      <guid>https://icourse.berkahit.com/belajar/programming/mobile/</guid>
+      <description>Pengenalan&gt; Pengenalan # Apa itu mobile developer?</description>
+    </item>
+    
+  </channel>
+</rss>

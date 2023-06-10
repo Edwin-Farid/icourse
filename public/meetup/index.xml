@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meetup on iCourse</title>
+    <link>https://icourse.berkahit.com/meetup/</link>
+    <description>Recent content in Meetup on iCourse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>@ { year } iCourse powered by Berkah IT</copyright>
+    <lastBuildDate>Sat, 08 Apr 2023 11:37:49 +0800</lastBuildDate><atom:link href="https://icourse.berkahit.com/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lotim Dev MeetUp 4</title>
+      <link>https://icourse.berkahit.com/meetup/meetup4/</link>
+      <pubDate>Sat, 08 Apr 2023 11:37:32 +0800</pubDate>
+      
+      <guid>https://icourse.berkahit.com/meetup/meetup4/</guid>
+      <description>Technical Feasibility : Sudaryatno as CTO at GITS Indonesia&gt; Technical Feasibility : Sudaryatno as CTO at GITS Indonesia # Gits sebuah perusahaan yang berfokus dalam bidang perkembangan software.</description>
+    </item>
+    
+  </channel>
+</rss>

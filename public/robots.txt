@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://icourse.berkahit.com/sitemap.xml

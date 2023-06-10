@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solidity on iCourse</title>
+    <link>https://icourse.berkahit.com/tags/solidity/</link>
+    <description>Recent content in Solidity on iCourse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>@ { year } iCourse powered by Berkah IT</copyright>
+    <lastBuildDate>Sun, 30 Apr 2023 08:48:41 +0800</lastBuildDate><atom:link href="https://icourse.berkahit.com/tags/solidity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Belajar Solidity dari Freecodecamp</title>
+      <link>https://icourse.berkahit.com/belajar/blockchain/solidity/</link>
+      <pubDate>Sun, 30 Apr 2023 08:48:41 +0800</pubDate>
+      
+      <guid>https://icourse.berkahit.com/belajar/blockchain/solidity/</guid>
+      <description>Disini kamu dapat mempelajari teknologi web3, solidity atau mungkin bahasa yang familiar blockchain. Tidak masalah kamu belum menguasai bahasa pemrograman atau baru terjun di dunia IT, karena pada tutorial kali ini akan di ajarkan dari basic sampai expert</description>
+    </item>
+    
+  </channel>
+</rss>
