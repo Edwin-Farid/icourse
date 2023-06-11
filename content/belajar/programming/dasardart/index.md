@@ -4,7 +4,10 @@ date: 2023-06-10T09:32:45+08:00
 draft: false
 
 showtableofcontents: true
-tags: ["Mobile Developer","Dart","Dart PBO","Flutter","Dasar Dart"]
+tags: ["Mobile Developer", "Dart", "Dart PBO", "Flutter", "Dasar Dart"]
+
+series: ["Mobile Developer"]
+series_order: 2
 ---
 
 ## Dasar-dasar dart

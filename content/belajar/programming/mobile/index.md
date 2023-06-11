@@ -4,7 +4,10 @@ date: 2023-06-06T10:31:48+08:00
 draft: false
 
 showtableofcontents: true
-tags: ["Mobile Developer", "Dart", "Flutter","Install Flutter"]
+tags: ["Mobile Developer", "Dart", "Flutter", "Install Flutter"]
+
+series: ["Mobile Developer"]
+series_order: 1
 ---
 
 ## Pengenalan
