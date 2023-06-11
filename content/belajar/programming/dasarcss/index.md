@@ -1,5 +1,5 @@
 ---
-title: "CSS (Cascading Style Sheets) Dasar"
+title: "Dasar CSS (Cascading Style Sheets)"
 date: 2023-06-11T19:16:42+08:00
 draft: false
 
