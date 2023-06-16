@@ -3,7 +3,6 @@ title: "Dasar CSS (Cascading Style Sheets)"
 date: 2023-06-11T19:16:42+08:00
 draft: false
 
-showTableOfContents: true
 tags: ["Web Developer", "CSS", "Dasar CSS"]
 
 series: ["Web Developer"]
