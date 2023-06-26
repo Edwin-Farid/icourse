@@ -1,6 +1,6 @@
 ---
 title: "Dasar Java Script"
-date: 2023-06-26T14:52:30+08:00
+date: 2023-06-23T14:52:30+08:00
 draft: false
 
 tags: ["Web Developer", "Javascript", "JS", "Dasar JS"]
