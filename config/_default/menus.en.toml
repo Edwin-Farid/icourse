@@ -26,6 +26,12 @@
   weight = 2
 
 [[main]]
+  name = "Design"
+  parent = "Belajar"
+  pageRef = "belajar/design"
+  weight = 2
+
+[[main]]
   name = "IOT"
   parent = "Belajar"
   pageRef = "belajar/iot"
@@ -34,7 +40,7 @@
 [[main]]
   name = "Blockchain"
   parent = "Belajar"
-pageRef = "belajar/blockchain"
+  pageRef = "belajar/blockchain"
   weight = 2
 
 [[main]]
