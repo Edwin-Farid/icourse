@@ -247,7 +247,7 @@ class _MainAppState extends State<MainApp> {
 Anonymous Method merupakan method yang tidak memiliki nama. Penempatannya
 langsung di dalam fungsi. Seperti contoh di bawah ini :
 
-```dart
+```dart {linenos=table,hl_lines=[9,"24-27"],linenostart=1}
 class MainApp extends StatefulWidget {
   const MainApp({super.key});
 
@@ -262,7 +262,7 @@ class _MainAppState extends State<MainApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(
+         appBar: AppBar(
           title: const Text("Berkah IT"),
         ),
         body: Center(
@@ -286,4 +286,5 @@ class _MainAppState extends State<MainApp> {
     );
   }
 }
+
 ```
