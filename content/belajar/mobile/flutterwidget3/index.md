@@ -1,6 +1,6 @@
 ---
 title: "Widget Flutter Lanjutan 2"
-date: 2023-06-27T16:12:30+08:00
+date: 2023-06-26T16:12:30+08:00
 draft: false
 
 showtableofcontents: true

@@ -1,6 +1,6 @@
 ---
 title: "Dasar JavaScript Lanjutan"
-date: 2023-06-26T21:29:52+08:00
+date: 2023-06-27T21:29:52+08:00
 draft: false
 
 tags: ["Web Developer", "JavaScript", "JS", "Dasar JS"]
