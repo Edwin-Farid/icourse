@@ -15,6 +15,7 @@ series_order: 7
 - Textfield
 - inkWell
 - AppBar
+- Expanded && Divider
 
 ## Navigasi Multi Page
 
@@ -211,5 +212,45 @@ appBar: AppBar(
   elevation: 0,
   centerTitle: true,
   backgroundColor: Colors.amber,
+),
+```
+
+## Expanded & Divider
+
+### Expanded
+
+Pembungkus widget agar dapat menyesuaikan ukuran dari wdiget utama.
+
+### Divider
+
+Untuk menampilkan garis lurus.
+
+```dart
+Expanded(
+  child: Divider(
+    color: Color(0xffA39797),
+    thickness: 1,
+  ),
+),
+```
+
+## ElevatedButton
+
+```dart
+ElevatedButton(
+  onPressed: () {},
+  style: ElevatedButton.styleFrom(
+    backgroundColor: const Color(0xFF009688),
+    shape: RoundedRectangleBorder(
+      borderRadius: BorderRadius.circular(10),
+    ),
+  ),
+  child: const Text(
+    "Masuk",
+    style: TextStyle(
+        fontFamily: "Plus Jakarta Sans",
+        fontSize: 20,
+        fontWeight: FontWeight.w600),
+  ),
 ),
 ```
