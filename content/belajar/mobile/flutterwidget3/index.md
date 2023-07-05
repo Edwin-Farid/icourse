@@ -16,6 +16,7 @@ series_order: 7
 - inkWell
 - AppBar
 - Expanded && Divider
+- ElevatedButton
 
 ## Navigasi Multi Page
 
