@@ -1,5 +1,5 @@
 ---
-title: "Dasar Kotlin"
+title: "Kotlin Fundamental"
 date: 2023-08-24T10:17:22+08:00
 draft: false
 
