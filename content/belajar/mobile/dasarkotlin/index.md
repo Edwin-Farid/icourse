@@ -231,3 +231,31 @@ Akan memberikan default nilai jika mendapati nilai null. Menggunakan tanda ?:
 
     print(text?.length ?: 7)
 ```
+
+## String Template
+
+Menyisipkan nilai variable pada sebuah string
+
+```kotlin {linenos=table,linenostart=1}
+  val nama = "Edwin"
+  val alamat = "Bermis 2 Selong"
+```
+
+Bisa menggunakan $namaVariable pada sebuah string print
+
+```kotlin {linenos=table,linenostart=1}
+("Hal nama saya $nama, saya berasal dari $alamat")
+```
+
+Bisa menggunakan + pada sebuah string
+
+```kotlin {linenos=table,linenostart=1}
+print("Hal nama saya "+ nama+", saya berasal dari "+alamat)
+```
+
+Bisa menggunakan curly braces atau ${ } untuk menambahkan function
+
+```kotlin {linenos=table,linenostart=1}
+val angka = 7
+print("toko ${if (angka > 7) "sudah tutup" else "sudah buka"}")
+```
